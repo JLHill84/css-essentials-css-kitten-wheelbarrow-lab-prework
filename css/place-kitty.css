@@ -24,7 +24,7 @@
 
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
 #kitty-4 {
-  id = basket;
+  id: basket;
   position: absolute;
   z-index: 1;
   top: 276px;
