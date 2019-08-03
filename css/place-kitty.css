@@ -23,7 +23,7 @@
 }
 
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
-#basket {
+#kitty-4 {
   id = basket;
   position: absolute;
   z-index: 1;
